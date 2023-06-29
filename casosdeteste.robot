@@ -127,4 +127,3 @@ CT20: Iniciar uma conversa no chat do Tumblr
     [Tags]    conversa    conta
     Fazer login no Tumblr
     Iniciar conversa com outro blog
-    Sleep    3s
